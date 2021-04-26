@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.censusAnalyserProgram.services.IndianCensusAnalyserTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-04-26T18:58:20" hostname="AVS-1997" time="0.136">
+  <properties/>
+  <testcase name="givenCorrectOrNote_Checked()" classname="com.censusAnalyserProgram.services.IndianCensusAnalyserTest" time="0.128"/>
+  <testcase name="givenWrongPathReturnsCustomException()" classname="com.censusAnalyserProgram.services.IndianCensusAnalyserTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
