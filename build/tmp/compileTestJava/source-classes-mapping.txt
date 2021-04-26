@@ -1,0 +1,2 @@
+com/censusAnalyserProgram/services/IndianCensusAnalyserTest.java
+ com.censusAnalyserProgram.services.IndianCensusAnalyserTest
