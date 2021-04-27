@@ -3,7 +3,6 @@ package com.censusAnalyserProgram.services;
 import com.opencsv.bean.CsvBindByName;
 
 public class StateCensusAnalyser {
-  
         @CsvBindByName(column = "State name")
         private String stateName;
         @CsvBindByName(column = "Population")
